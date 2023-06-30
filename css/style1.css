@@ -19,7 +19,6 @@ di{
     color: aliceblue;
 }
 #tit{
-    background-image: url('./image/bgmimg.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
