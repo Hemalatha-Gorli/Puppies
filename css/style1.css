@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
-
+html{
+    width:100%;
+}
 #op{
     padding: 20px;
 }
