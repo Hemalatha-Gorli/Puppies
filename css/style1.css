@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#op{
+    padding: 20px;
+}
+
+div1,div2,div3{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 aquamarine,0 2px 20px 0 aquamarine;
+}
+di{
+    display: block;
+    background-color:black;
+    color: aliceblue;
+}
+#tit{
+    background-image: url('/image/bgmimg.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    height: 600px;
+}
+#tit h1{
+    text-align: center;
+    color:  aquamarine;
+    border: 2px solid aquamarine;
+    box-shadow: 0 4px 8px 0 aquamarine,0 2px 20px 0 aquamarine;
+    border-radius: 30px;
+    background-color:black
+}
+#mi ul li:hover{
+    display:inline-block;
+    background-color: aqua;
+    color:black;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+a{
+    font-style: none;
+    font-size:x-large;
+    text-decoration: none;
+    text-align: right;
+}
+#mi ul{
+    text-align: center;
+}
+
+#gold{
+    padding-bottom: 18px;
+    display: block;
+    width: 50;
+}
+#tot{
+    background-color: black;
+}
