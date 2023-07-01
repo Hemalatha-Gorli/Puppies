@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
 }
-html{
-    width:100vw;
+html {
+    overflow-x: hidden;
 }
-body{
-    width:100vw;
+body {
+    overflow-x: hidden;
 }
 #op{
     padding: 20px;
